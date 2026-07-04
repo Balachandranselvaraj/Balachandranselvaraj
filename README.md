@@ -2,7 +2,7 @@
 
 # Hi, I'm Bala Chandran 👋
 
-### Aspiring Cybersecurity & Full-Stack Developer  
+### Aspiring Cybersecurity & SOC Analysts 
 #### *Building practical tech solutions with cybersecurity, backend development, cloud, and AI-driven systems*
 
 <p align="center">
