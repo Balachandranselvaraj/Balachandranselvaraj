@@ -162,23 +162,27 @@ I enjoy exploring how systems work, learning new tools, solving real-world probl
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=balachandran121004&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balachandran121004&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Balachandranselvaraj&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&rank_icon=github" alt="Bala Chandran GitHub Stats" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandranselvaraj&layout=compact&hide_border=true&theme=tokyonight" alt="Bala Chandran Top Languages" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=balachandran121004&theme=tokyonight&hide_border=true" />
+
+  <img src="https://streak-stats.demolab.com?user=Balachandranselvaraj&theme=tokyonight&hide_border=true" alt="Bala Chandran GitHub Streak" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=balachandran121004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
 
+  <img src="https://github-profile-trophy.vercel.app/?username=Balachandranselvaraj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Bala Chandran GitHub Trophies" />
+
+</div>
 ---
 
 ## 🎯 What I Bring
